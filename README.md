@@ -72,4 +72,4 @@ This project is built with **PlatformIO**, supporting multiple hardware configur
 - **cyd**: For ILI9341 screens  
 - **cyd2usb**: For ST7789 screens with RGB inversion and BGR color order adjustments  
 
-Additionally, the `platformio.ini` configuration file includes **WiFi credentials, weather API keys, time zone settings, and update intervals**, which you can customize based on their needs.  
+Additionally, the `platformio.ini` configuration file includes **WiFi credentials, weather API keys, time zone settings, brightness, and update intervals**, which you can customize based on their needs.  
