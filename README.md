@@ -27,7 +27,7 @@ This is an **ESP32-Cheap-Yellow-Display-based weather clock** that integrates **
 
 📌 **Bottom Smart Suggestions:**  
 - Provides **clothing and travel reminders** based on the weather and time of day  
-- Example: *"☔ It's raining now, don't forget to bring an umbrella!"*  
+- Example: *"☔ Rain expected, take umbrella"*  
 
 ---
 
