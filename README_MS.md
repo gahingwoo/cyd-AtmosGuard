@@ -64,4 +64,4 @@ Projek ini dibina menggunakan **PlatformIO**, menyokong pelbagai konfigurasi per
 - **cyd**: Untuk skrin ILI9341  
 - **cyd2usb**: Untuk skrin ST7789 dengan penyongsangan RGB dan pelarasan warna BGR  
 
-Selain itu, fail konfigurasi `platformio.ini` mengandungi **kelayakan WiFi, kunci API cuaca, tetapan zon waktu, dan selang kemas kini**, yang boleh disesuaikan mengikut keperluan anda.
+Selain itu, fail konfigurasi `platformio.ini` mengandungi **kelayakan WiFi, kunci API cuaca, tetapan zon waktu, kecerahan, dan selang kemas kini**, yang boleh disesuaikan mengikut keperluan anda.
