@@ -61,7 +61,7 @@ This is an **ESP32-Cheap-Yellow-Display-based weather clock** that integrates **
 
 ## 🚨 5. Reliable Error Handling  
 
-- **WiFi connection monitoring**: If disconnected, the screen displays a **“Network Connection Error”**  
+- **WiFi connection monitoring**: If disconnected, the screen displays a **“WIFI Disconnected”**  
 
 ---
 
