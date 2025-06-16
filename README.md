@@ -1,4 +1,4 @@
-### Cyd-AtmosGuard (ESP32 Weather) Clock Project Overview  
+### Cyd (ESP32 TFT Touchscreen display LCD) Weather Clock Project Overview  
 
 This is an **ESP32-Cheap-Yellow-Display-based weather clock** that integrates **indoor and outdoor environment monitoring** and **weather reminders**. It’s perfect for home or office use.  
 
