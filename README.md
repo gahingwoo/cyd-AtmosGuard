@@ -69,7 +69,7 @@ This is an **ESP32-Cheap-Yellow-Display-based weather clock** that integrates **
 
 This project is built with **PlatformIO**, supporting multiple hardware configurations. You can select different environments (`env`) for compilation based on their screen type:  
 
-- **cyd**: For ILI9341 screens  
-- **cyd2usb**: For ST7789 screens with RGB inversion and BGR color order adjustments  
+- **cyd (only have a microusb port)**: For ILI9341 screens  
+- **cyd2usb (have an usb-c port and a microusb port)**: For ST7789 screens with RGB inversion and BGR color order adjustments  
 
 Additionally, the `platformio.ini` configuration file includes **WiFi credentials, weather API keys, time zone settings, brightness, and update intervals**, which you can customize based on their needs.  
